@@ -1,0 +1,16 @@
+.page1{
+    background-color: aqua;
+}
+p{
+    border: 10px;
+    margin: 3%;
+    left: 1%;
+    right: 1%;
+    border: chartreuse;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: caption;
+}
+
+.page2{
+    background-image: url("https://res.cloudinary.com/practicaldev/image/fetch/s--FUFoeQpW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/p5wilmn62vczuw4z7kjy.png");
+}
